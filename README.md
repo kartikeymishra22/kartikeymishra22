@@ -7,6 +7,9 @@
   <h1 align="center">Hi 👋, I'm Kartikey Mishra</h1>
   
   <h3 align="center">A passionate Full Stack Developer from India. </h3>
+  <p align="left">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+  </p>
 
 # 💫 About Me:
 <p>
