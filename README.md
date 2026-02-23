@@ -1,7 +1,7 @@
 <div align='center'>
   
 # 👋 Hello! I'm Kartikey Mishra
- I love programming and making things, I like analyze patterns.
+ I love programming and making things, I like to analyze patterns.
 
 </div>
 ### Things I love right now
