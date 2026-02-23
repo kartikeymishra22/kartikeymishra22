@@ -1,8 +1,10 @@
-## Hi there 👋
+<div align='center'>
+  
+# 👋 Hello! I'm Kartikey Mishra
+ I love programming and making things, I like analyze patterns.
 
-<div align="center" >
-    <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
-  </div>
+</div>
+
   
   <h1 align="center">Hi 👋, I'm Kartikey Mishra</h1>
   
