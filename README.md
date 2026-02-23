@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c%2B%2B,git,js,py,bash" alt="Skills icon set">
+   <img src="https://skillicons.dev/icons?i=c%2B%2B,python,js,react,nodejs,linux,git" />
   </a>
 </p>
 
