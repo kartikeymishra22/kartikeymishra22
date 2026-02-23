@@ -4,7 +4,13 @@
  I love programming and making things, I like analyze patterns.
 
 </div>
+### Things I love right now
 
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c++,git,js,py,bash" alt="Skills icon set">
+  </a>
+</p>
   
   <h3 align="center">A passionate Full Stack Developer from India. </h3>
   <p align="left">
