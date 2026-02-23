@@ -8,9 +8,11 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c++,git,js,py,bash" alt="Skills icon set">
+    <img src="https://skillicons.dev/icons?i=c%2B%2B,git,js,py,bash" alt="Skills icon set">
   </a>
 </p>
+
+<hr>
   
   <h3 align="center">A passionate Full Stack Developer from India. </h3>
   <p align="left">
