@@ -24,6 +24,8 @@
     I am a dedicated professional who transitioned from civil engineering to computer science, driven by a passion for problem-solving, innovation, and technology. With a strong analytical mindset and a background in engineering principles, I now specialize in software development, AI, and data structures & algorithms.
 </p>
 
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kartikeymishra700@gmail.com" style="text-decoration: none;">Email</a>
+
  <p align="left">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
   </p>
